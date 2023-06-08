@@ -1,2 +1,8 @@
 Hello, Rabbit. Would you like bla bla bla
 
+1.- change file
+save file
+git addition
+git status
+git commit -m "i made changes"
+git push
